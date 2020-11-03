@@ -70,7 +70,6 @@ object Assignment2 {
       case _ => "Hey there!"
     }
 
-
   class BankAccount(val currentBalance: Double) {
     private var _balance = currentBalance
 
